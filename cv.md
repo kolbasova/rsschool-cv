@@ -6,11 +6,7 @@
 
 - phone: +375 29 125 53 73
 - e-mail: k.elena78@yahoo.com
-- GitHub: <code>[@kolbasova][1]
-
-[1]: https://github.com/kolbasova "@kolbasova"
-
-</code>
+- GitHub: [@kolbasova] [https://github.com/kolbasova "@kolbasova"]
 
 ## **About myself**
 
@@ -24,10 +20,15 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 ## **Skills and Proficiency**
 
 *HTML (in progress)
+
 *CSS (in progress)
+
 *JS (0)
+
 *VSCode (basic)
+
 *Git/GitHub (in progressg)
+
 *React (0)
 
 ## **Education**
@@ -61,4 +62,4 @@ RSSchool Course "RS School JavaScript/Front-end course" (in progress)
 ## **Languages**
 
 English - Advanced (according to the online test at www.efset.org)
-Russian - native
+Russian - Native
