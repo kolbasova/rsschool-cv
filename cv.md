@@ -28,6 +28,7 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 *JS (0)
 *VSCode (basic)
 *Git/GitHub (in progressg)
+*React (0)
 
 ## **Education**
 
