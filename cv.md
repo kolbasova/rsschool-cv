@@ -3,7 +3,7 @@
 
 # **Elena Kolbasova**
 
-## **Future Junior Frontend Developer
+## **Future Junior Frontend Developer**
 
 *********
 
@@ -37,8 +37,6 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 *VSCode (basic)
 
 *Git/GitHub (in progressg)
-
-*React (0)
 
 *********
 
