@@ -29,10 +29,6 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 *VSCode (basic)
 *Git/GitHub (in progressg)
 
-## **Working experience**
-
-Stage 0
-
 ## **Education**
 
 Belarussian state economic university
@@ -53,6 +49,9 @@ function toCamelCase(str) {
     .join("");
 }
 ```
+## **Working experience**
+
+Stage 0
 
 ## **Courses**
 
