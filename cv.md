@@ -6,7 +6,7 @@
 
 ## **Сontact information**
 
-- phone: +375 29 125 53 73
+- phone: +375 29 125 53
 - e-mail: <k.elena78@yahoo.com>
 - GitHub: @kolbasova
 
