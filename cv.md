@@ -1,19 +1,14 @@
 # rsschool-cv
 
-
 # **Elena Kolbasova**
 
 ## **Future Junior Frontend Developer**
-
-*********
 
 ## **Сontact information**
 
 - phone: +375 29 125 53 73
 - e-mail: <k.elena78@yahoo.com>
 - GitHub: @kolbasova
-
-************
 
 ## **About myself**
 
@@ -23,8 +18,6 @@
 
 The decision to start studying the _Front end_ is a new challenge, to prove to myself once again that I can and will succeed.
 I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient _Frontend Developer_.
-
-************
 
 ## **Skills and Proficiency**
 
@@ -38,13 +31,9 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 
 *Git/GitHub (in progressg)
 
-************
-
 ## **Education**
 
 Belarussian state economic university
-
-************
 
 ## **Code example**
 
@@ -63,13 +52,9 @@ function toCamelCase(str) {
 }
 ```
 
-************
-
 ## **Courses**
 
 RSSchool Course "RS School JavaScript/Front-end course" (in progress)
-
-************
 
 ## **Languages**
 
