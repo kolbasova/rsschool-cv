@@ -59,4 +59,5 @@ RSSchool Course "RS School JavaScript/Front-end course" (in progress)
 ## **Languages**
 
 English - Advanced (according to the online test at www.efset.org)
+
 Russian - Native
